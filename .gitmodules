@@ -1,6 +1,0 @@
-[submodule "themes/ed"]
-	path = themes/ed
-	url = https://github.com/sergeyklay/gohugo-theme-ed
-[submodule "themes/aafu"]
-	path = themes/aafu
-	url = https://github.com/darshanbaral/aafu.git
